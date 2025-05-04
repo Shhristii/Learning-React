@@ -33,10 +33,10 @@ const Navbar = () => {
                 Services
               </Link>
               <Link
-                to="/contact"
+                to="/store"
                 className="hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
               >
-                Contact
+                Store
               </Link>
             </div>
           </div>
